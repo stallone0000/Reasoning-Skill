@@ -1,5 +1,13 @@
 # Thinking with Reasoning Skills (TRS)
 
+<p align="center">
+  <a href="https://github.com/stallone0000/Reasoning-Skill"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Reasoning--Skill-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://huggingface.co/datasets/stallone0000/Reasoning-Skill"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=for-the-badge"></a>
+  <a href="https://reasoning-skill.onrender.com/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Direct%20vs%20TRS-46E3B7?style=for-the-badge&logo=render&logoColor=white"></a>
+</p>
+
+**Project links:** [GitHub](https://github.com/stallone0000/Reasoning-Skill) · [Hugging Face Dataset](https://huggingface.co/datasets/stallone0000/Reasoning-Skill) · [Interactive Demo](https://reasoning-skill.onrender.com/)
+
 This folder contains a lightweight, sanitized implementation of the main TRS pipeline used in the paper:
 
 1. Generate source CoT / reasoning traces for source problems.
