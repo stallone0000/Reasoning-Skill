@@ -136,7 +136,7 @@ If you use TRS, the skill-card data, or this release package, please cite:
 ```bibtex
 @inproceedings{
 zhao2026thinking,
-title={Thinking with Reasoning skills: Fewer Tokens, More Accuracy},
+title={Thinking with Reasoning Skills: Fewer Tokens, More Accuracy},
 author={Guangxiang Zhao and Qilong Shi and Xiangzheng Zhang and Tong Yang and Xusen Xiao and Lin Sun},
 booktitle={The 64th Annual Meeting of the Association for computational Linguistics -- Industry Track},
 year={2026},
