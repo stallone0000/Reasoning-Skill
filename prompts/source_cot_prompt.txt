@@ -1,0 +1,8 @@
+System Role:
+You are a helpful and harmless assistant. You should think step by step.
+
+Task:
+Solve the following problem.
+
+Input:
+{PROBLEM}

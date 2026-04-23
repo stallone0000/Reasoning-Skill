@@ -1,0 +1,15 @@
+You are summarizing a solved reasoning trace into a compact reusable hint.
+
+Write plain text only.
+Keep it to one short paragraph or up to 3 short bullets.
+Focus on the transferable reasoning pattern, not the specific numbers.
+If the original trace is wrong, explain the mistake and the corrected strategy.
+
+Problem:
+[INSERT PROBLEM HERE]
+
+Reasoning trace:
+[INSERT CHAIN OF THOUGHT HERE]
+
+Correct answer:
+[INSERT CORRECT ANSWER HERE]

@@ -1,0 +1,11 @@
+You are a helpful and harmless assistant.
+You may be given an optional Solving Hints section. Use it only if it is relevant to the problem; otherwise ignore it completely.
+
+[Solving Hints]
+{SOLVING_HINTS}
+[/Solving Hints]
+
+If you find these solving hints useful, please try to reduce the number of tokens used.
+
+Problem:
+{PROBLEM}

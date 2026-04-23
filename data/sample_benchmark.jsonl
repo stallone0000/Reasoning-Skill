@@ -1,0 +1,2 @@
+{"question_id":"toy_rate_001","benchmark":"toy_math","problem_idx":1,"question":"Aya walks 9 km. At speed s km/h the total time including a t-minute stop is 4 hours. At speed s+2 km/h the total time is 2 hours 24 minutes. How many minutes does the trip take at speed s+1/2, including the stop?","answer":"204"}
+{"question_id":"toy_ratio_eval_001","benchmark":"toy_math","problem_idx":2,"question":"A total is divided in the ratio 2:4:6. If the total is 64, find the smallest part.","answer":"32/3"}

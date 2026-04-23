@@ -1,0 +1,1 @@
+"""Minimal TRS release scripts."""
