@@ -1,4 +1,4 @@
-# Thinking with Reasoning Skills (TRS) Minimal Release
+# Thinking with Reasoning Skills (TRS)
 
 This folder contains a lightweight, sanitized implementation of the main TRS pipeline used in the paper:
 
