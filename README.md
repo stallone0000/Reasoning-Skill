@@ -128,3 +128,17 @@ python scripts/export_benchmark_summary.py \
 - Dataset and skill-card releases are prepared separately for Hugging Face.
 - Coding experiments use a local compile-and-run judge and optional BGE-M3/FAISS hybrid retrieval. See `coding/README.md` and the `coding_reproduction` staging folder for the full data/index artifacts.
 - Never commit `.env` files or provider API keys. Use `.env.example` only as a template.
+
+## Citation
+
+If you use TRS, the skill-card data, or this release package, please cite:
+
+```bibtex
+@inproceedings{
+zhao2026thinking,
+title={Thinking with Reasoning skills: Fewer Tokens, More Accuracy},
+author={Guangxiang Zhao and Qilong Shi and Xiangzheng Zhang and Tong Yang and Xusen Xiao and Lin Sun},
+booktitle={The 64th Annual Meeting of the Association for computational Linguistics -- Industry Track},
+year={2026},
+url={https://openreview.net/forum?id=FI93dzMCSN}
+}
