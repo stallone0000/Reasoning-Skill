@@ -8,6 +8,8 @@
 </p>
 
 
+> **News (2026-04-18):** This paper has been accepted to **ACL 2026 (Industry Track)**.
+
 **Project links:** [arXiv](https://arxiv.org/abs/2604.21764) · [GitHub](https://github.com/stallone0000/Reasoning-Skill) · [Hugging Face Dataset](https://huggingface.co/datasets/stallone0000/Reasoning-Skill) · [Interactive Demo](https://reasoning-skill.onrender.com/)
 
 This folder contains a lightweight, sanitized implementation of the main TRS pipeline used in the paper:
