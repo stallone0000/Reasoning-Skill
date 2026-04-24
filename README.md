@@ -1,12 +1,14 @@
 # Thinking with Reasoning Skills (TRS)
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2604.21764"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.21764-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"></a>
   <a href="https://github.com/stallone0000/Reasoning-Skill"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Reasoning--Skill-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://huggingface.co/datasets/stallone0000/Reasoning-Skill"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=for-the-badge"></a>
   <a href="https://reasoning-skill.onrender.com/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Direct%20vs%20TRS-46E3B7?style=for-the-badge&logo=render&logoColor=white"></a>
 </p>
 
-**Project links:** [GitHub](https://github.com/stallone0000/Reasoning-Skill) · [Hugging Face Dataset](https://huggingface.co/datasets/stallone0000/Reasoning-Skill) · [Interactive Demo](https://reasoning-skill.onrender.com/)
+
+**Project links:** [arXiv](https://arxiv.org/abs/2604.21764) · [GitHub](https://github.com/stallone0000/Reasoning-Skill) · [Hugging Face Dataset](https://huggingface.co/datasets/stallone0000/Reasoning-Skill) · [Interactive Demo](https://reasoning-skill.onrender.com/)
 
 This folder contains a lightweight, sanitized implementation of the main TRS pipeline used in the paper:
 
@@ -136,9 +138,13 @@ If you use TRS, the skill-card data, or this release package, please cite:
 ```bibtex
 @inproceedings{
 zhao2026thinking,
-title={Thinking with Reasoning Skills: Fewer Tokens, More Accuracy},
+title={Thinking with Reasoning skills: Fewer Tokens, More Accuracy},
 author={Guangxiang Zhao and Qilong Shi and Xiangzheng Zhang and Tong Yang and Xusen Xiao and Lin Sun},
 booktitle={The 64th Annual Meeting of the Association for computational Linguistics -- Industry Track},
 year={2026},
-url={https://openreview.net/forum?id=FI93dzMCSN}
+url={https://openreview.net/forum?id=FI93dzMCSN},
+eprint={2604.21764},
+archivePrefix={arXiv},
+primaryClass={cs.CL}
 }
+```
